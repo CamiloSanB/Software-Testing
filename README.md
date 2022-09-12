@@ -14,7 +14,7 @@ Contiene los programas hechos para las tareas de la asignatura "Pruebas de Softw
       Ejecutar archivo pila.py con python 3.x
 
 # ¿Cómo contribuir?
-  No se aceptan contribuciones sobre nuevas funcionalidades y/o extensiones del programa. Dado por la naturaleza del repositorio, sí se aceptan fallas y errores encontrandos en el funcionamiento de los programas.
+  No se aceptan contribuciones sobre nuevas funcionalidades y/o extensiones de los programas. Dado por la naturaleza del repositorio, sí se aceptan fallas y errores encontrandos en el funcionamiento de los programas.
 
 # Licencia
   MIT License
